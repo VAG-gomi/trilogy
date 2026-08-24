@@ -1,4 +1,3 @@
----
 # The Trilogy
 
 Three AI-designed statistical models, tested under one pre-registration
@@ -44,4 +43,3 @@ author errors were caught by the structure — none reached a result.
 
 PROJECT CLOSED. All verdicts certified. All findings dispositioned.
 All open questions labeled open, by choice.
----
