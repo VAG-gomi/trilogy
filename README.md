@@ -1,4 +1,3 @@
----
 # The Trilogy
 
 Three AI-designed statistical models, tested under one pre-registration
@@ -42,4 +41,3 @@ hash-verified, and every failure documented rather than buried.
 
 PROJECT CLOSED. All verdicts certified. Real-world validation completed
 with negative and inconclusive results. All findings documented honestly.
----
